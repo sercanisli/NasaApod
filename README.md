@@ -1,3 +1,19 @@
+This project was developed using the Nasa.org APOD APIs. Astronomy Picture of the Day data for the selected date with this application are called by API request. ailwindCSS is used to develop the UI in the application. A separate link has been created for the actual resolutions of the photos. Next.js version 13.4.1 is used.
+
+Examples where the page returns data for different dates;
+
+1-)
+![1](https://github.com/sercanisli/NasaApod/assets/128610192/7b7c899f-3509-441d-afaf-4dda4abd93d5)
+
+
+2-)
+![2](https://github.com/sercanisli/NasaApod/assets/128610192/6f0a751e-0c16-42e8-ad47-4957cb324820)
+
+
+3-)
+![3](https://github.com/sercanisli/NasaApod/assets/128610192/9d177ae2-2cec-48fa-aee2-c24c5d4ec0da)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
